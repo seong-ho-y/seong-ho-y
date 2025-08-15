@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding" />
+      <img src="https://i.pinimg.com/originals/48/8e/4a/488e4a628fcdd4e2022c35d10b20505d.gif" alt="pixel-art-gif" />
     </td>
   </tr>
 </table>
