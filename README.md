@@ -13,7 +13,7 @@
           <ul>
             <li>💻 Code</li>
             <li>🎵 Music (Guitar & Piano)</li>
-            <li>🖌️ Art & Drawing</li>
+            <li>🖌️ Writing</li>
             <li>🎮 Game</li>
           </ul>
         </li>
